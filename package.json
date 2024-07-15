@@ -1,0 +1,18 @@
+{
+  "name": "@dotenvx/dotenvx-pro-darwin-amd64",
+  "version": "0.1.0",
+  "description": "dotenvx-pro-darwin-amd64 binary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotenvx/dotenvx-pro-darwin-amd64.git"
+  },
+  "files": [
+    "dotenvx-pro",
+    "README.md"
+  ],
+  "author": "@motdotla",
+  "license": "BSD-3-Clause",
+  "publishConfig": {
+    "access": "public"
+  }
+}
