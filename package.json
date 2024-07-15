@@ -1,10 +1,10 @@
 {
-  "name": "@dotenvx/dotenvx-pro-darwin-amd64",
+  "name": "@dotenvx/dotenvx-pro-darwin-x86_64",
   "version": "0.1.0",
-  "description": "dotenvx-pro-darwin-amd64 binary",
+  "description": "dotenvx-pro-darwin-x86_64 binary",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotenvx/dotenvx-pro-darwin-amd64.git"
+    "url": "git+https://github.com/dotenvx/dotenvx-pro-darwin-x86_64.git"
   },
   "files": [
     "dotenvx-pro",
